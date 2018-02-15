@@ -12,7 +12,7 @@ public class BanController
     public static void ban(String id, String tag)
     {
         String ipPort = Main.ipPort;
-        String banUrl = "http://" + ipPort + "/pwAdmin/cheats.jsp?id=";
+        String banUrl = "http://" + ipPort + "/pwAdmin/ban.jsp?id=";
         banUrl = banUrl + id;
         String command = "wget -c " + banUrl + " -q > /dev/null";
         Calendar c = Calendar.getInstance();

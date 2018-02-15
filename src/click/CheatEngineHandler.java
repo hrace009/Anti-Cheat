@@ -9,8 +9,8 @@ import java.util.Vector;
 
 public class CheatEngineHandler
 {
-    private String CHEATENGINEWORDS = "./config/CheatEngineWords.txt";
-    private String USERCONTEXT = "./config/UserContext.txt";
+    private String CHEATENGINEWORDS = "./Configs/CheatEngineWords.txt";
+    private String USERCONTEXT = "./Configs/UserContext.txt";
     private Vector<String> cheatEngineWords;
     private String currentUser;
     private String userContext;

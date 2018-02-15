@@ -1,0 +1,9 @@
+Cheat Engine
+cheatengine
+cheatengine-i386
+cheatengine-x86_64
+Cheat Engine.exe
+Cheat Engine 6.1
+SenderX3.exe
+Server
+Sender
